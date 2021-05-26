@@ -8,7 +8,7 @@ metadata:
     filter.fluxcd.io/chart-image: latest
 spec:
   chart:
-    repository: https://devopslifter.github.io/expressjs-k8s/
+    repository: https://alexellis.github.io/expressjs-k8s/
     name: expressjs-k8s
     version: 0.1.1
   values:
